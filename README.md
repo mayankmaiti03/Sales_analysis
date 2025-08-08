@@ -1,7 +1,7 @@
 # Sales_analysis
 # 📊 Business Intelligence Dashboard – Power BI
 
-![Dashboard Preview]([dashboard image.png](https://github.com/mayankmaiti03/Sales_analysis/blob/32f9a6fd6367d8509759ab29819ca7ed07e49f21/dashboard%20image.png))  
+![Dashboard Preview](https://github.com/mayankmaiti03/Sales_analysis/blob/32f9a6fd6367d8509759ab29819ca7ed07e49f21/dashboard%20image.png)
 *Above: Interactive Power BI Dashboard showing KPIs, trends, and insights.*
 
 ---
